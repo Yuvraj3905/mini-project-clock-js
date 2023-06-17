@@ -9,8 +9,8 @@ const start = () => {
     interval = setInterval(Clock, 1000);
 }
 
-const stop = () => {
-    clearInterval(interval);
-}
+// const stop = () => {
+//     clearInterval(interval);
+// }
 
 start();
